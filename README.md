@@ -1,2 +1,2 @@
-# prgrama-o_web_ads
+# Programação WEB-ADS
 Repositório programação WEB-ADS-CEUB
